@@ -1,0 +1,50 @@
+#navb {
+    font-family: 'Fondamento', cursive;
+    background-color: #252a7d;
+    opacity: 75%;
+}
+
+.address {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    margin-top: 30px;
+    color: #252a7d;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.square {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #252a7d;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: #8fba8c;
+    opacity: 75%;
+
+  }
+
+  #tsp {
+      position: relative;
+      top: -400px;
+      left: 70px;
+  }
+
+  #hours {
+    position: relative;
+    top: -550px;
+    left: 1000px;
+  }
+
+  .h {
+      position: relative;
+      top: 10px;
+      font-size: 15;
+      color: white;
+  }
